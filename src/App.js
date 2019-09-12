@@ -1,7 +1,5 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import ListContacts from './ListContacts'
-
-const contacts =
 
 
 class App extends Component {
@@ -25,7 +23,7 @@ class App extends Component {
        "handle": "tylermcginnis",
        "avatarURL": "http://localhost:5001/tyler.jpg"
      },
-    ];
+    ]
   }
   render(){
     return (
